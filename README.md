@@ -1,7 +1,7 @@
 # Javascript Iceland
 
 ### About
-We are the Icelandic Javascript usergroup. We organize meetups for the Iclelandic developer community.
+We are the Icelandic Javascript usergroup. We organize meetups for the Icelandic developer community.
 
 ### How we are organized
 We have few organizers and they are listed here https://github.com/orgs/jsis/people.
